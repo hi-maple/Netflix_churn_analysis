@@ -127,7 +127,7 @@ Created an interactive dashboard including:
 ---
 
 ##  Dashboard Preview
-![alt text](screenshots/Dashboard.png)
+![altText](screenshots/Dashboard.png)
 
 
 ##  Future Improvements
