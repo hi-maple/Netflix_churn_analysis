@@ -127,7 +127,7 @@ Created an interactive dashboard including:
 ---
 
 ##  Dashboard Preview
-"C:\Users\vberi\OneDrive\Desktop\New folder\screenshots\Dashboard.png"
+![alt text](screenshots/Dashboard.png)
 
 
 ##  Future Improvements
